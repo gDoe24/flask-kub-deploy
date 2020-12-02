@@ -16,7 +16,6 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
 
 ci-cd-codepipeline.cfn.yml
 aws-auth-patch.yml
